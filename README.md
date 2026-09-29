@@ -134,6 +134,7 @@ Here's what you can do:
 - Shvets, Alexander. Refactoring Guru. 2014. [[Link]](https://refactoring.guru/)
 ### Packages
 ### Papers
+- Ling, Guoming, et al. "Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem." *arXiv*, 2026. [[Link]](https://arxiv.org/abs/2609.30216) - Surveys 2,170 public Jev GitHub projects and analyzes early growth, application domains, and decision-use patterns.
 ### Posts and threads
 ### Talks, conferences, and videos
 
